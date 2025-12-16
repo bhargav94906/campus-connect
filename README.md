@@ -22,3 +22,5 @@ Campus Connect is a frontend web application designed to provide students with a
 ---
 
 ## 📁 Project Structure
+## 🌐 Live Demo
+https://bhargav94906.github.io/campus-connect/
